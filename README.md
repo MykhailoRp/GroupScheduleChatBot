@@ -2,9 +2,10 @@
 *This bot was created to manage schedule of a university group and create queues for specified lessons*
 
 # Setup
-1. Run setup.py to start setup process
-2. Enter asked information in set format
-3. Start bot from the same terminal or with start.py
+1. Run "pip install -r requirements.txt" in command line
+2. Run setup.py to start setup process
+3. Enter asked information in set format
+4. Start bot from the same terminal or with start.py
 
 # Features
 
